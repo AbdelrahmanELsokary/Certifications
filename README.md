@@ -5,7 +5,8 @@
 ## **Sololearn**
 ![Introduction_HTML](https://github.com/user-attachments/assets/2bb01032-43bb-43a1-bd21-e6b15e33ed73)
 ![Introduction_CSS](https://github.com/user-attachments/assets/a10d61b6-4e39-4b87-82e4-1ece80345e6b)
-
+![Introduction_to_JavaScript](https://github.com/user-attachments/assets/7146751c-bb3d-4a24-8a68-e18ba9b98840)
+![ML_for_ Beginners](https://github.com/user-attachments/assets/080698c0-a7ff-4b4f-a99e-098f8c47f23e)
 
 ## **Robotics**
 
