@@ -25,4 +25,5 @@
 
 ## **Skills**
 ![inovvegypt](https://github.com/user-attachments/assets/9de5021b-a242-42ca-9ac9-19ad552cf8ee)
+![Freelancer](https://github.com/user-attachments/assets/24807ba8-fd0c-4e00-a9d9-bbf6f042f643)
 ![markting](https://github.com/user-attachments/assets/d401ab8c-25a1-47ec-9ea6-de0ceeb160c3)
